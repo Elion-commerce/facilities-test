@@ -344,9 +344,9 @@ font-size: 15px;
 
 
 .card{
-    margin: 0%;
-    color: black;
+color: black;
 background-color: rgb(255, 255, 255);
+margin: 4em 0em 0em 0em;
 width: 300px;
 height: 400px;
 
