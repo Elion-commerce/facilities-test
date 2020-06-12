@@ -337,6 +337,11 @@ width: 280px;
 height: 400px;
 margin-left: 3%;
 }
+.ctag{
+    font-size: 20px;
+    width: 170px;
+
+}
 
 .card div{
     height:250px
