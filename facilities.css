@@ -4,6 +4,7 @@ body{
     margin: 0%;
     font-family:sans-serif;
    background-color: rgb(247, 247, 247);
+   width: 100%;
 }
 
 .Nav a{
