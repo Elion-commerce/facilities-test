@@ -333,7 +333,7 @@ font-size: 15px;
 .card{
     color: black;
 background-color: rgb(255, 255, 255);
-width: 300px;
+width: 280px;
 height: 400px;
 margin-left: 20px;
 }
@@ -343,7 +343,7 @@ margin-left: 20px;
 }
 
 .card img{
-  width: 300px;
+  width: 280px;
     height: 250px;
 }
 
