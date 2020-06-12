@@ -300,7 +300,7 @@ button{
 #menu_btn{
 position: absolute;
 top: 65px;
-right: 50px;
+right: 30px;
 display: block;
 
 }
@@ -323,15 +323,19 @@ display: block;
     top:3.2em;
     padding: 15px;
     background-color: rgba(7, 11, 63, 0.925);
-width: 150px;
-transition: .5s;
-font-size: 15px;
+    width: 150px;
+    transition: .5s;
+    font-size: 15px;
 }
 
 .span_class3 div{
     padding: 0em 0em 4em 0em;
     margin: 0em 2em 1em 1em;
    
+}
+#Signup_btn {
+    position: relative;
+    left: 12px;
 }
 
 
